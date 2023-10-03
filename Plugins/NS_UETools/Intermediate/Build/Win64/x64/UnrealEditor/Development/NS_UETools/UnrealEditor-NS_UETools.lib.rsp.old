@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-NS_UETools.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\UE_Git\UEPluginDevelopment\TemplateDevelopment\Intermediate\Build\Win64\x64\TemplateDevelopmentEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp17.InclOrderUnreal5_0.h.obj"
+"E:\UE_Git\UEPluginDevelopment\TemplateDevelopment\Plugins\NS_UETools\Intermediate\Build\Win64\x64\UnrealEditor\Development\NS_UETools\Module.NS_UETools.cpp.obj"
+"E:\UE_Git\UEPluginDevelopment\TemplateDevelopment\Plugins\NS_UETools\Intermediate\Build\Win64\x64\UnrealEditor\Development\NS_UETools\NS_UETools.gen.cpp.obj"
+"E:\UE_Git\UEPluginDevelopment\TemplateDevelopment\Plugins\NS_UETools\Intermediate\Build\Win64\x64\UnrealEditor\Development\NS_UETools\NS_UETools.init.gen.cpp.obj"
+"E:\UE_Git\UEPluginDevelopment\TemplateDevelopment\Plugins\NS_UETools\Intermediate\Build\Win64\x64\UnrealEditor\Development\NS_UETools\Default.rc2.res"
+/OUT:"E:\UE_Git\UEPluginDevelopment\TemplateDevelopment\Plugins\NS_UETools\Intermediate\Build\Win64\x64\UnrealEditor\Development\NS_UETools\UnrealEditor-NS_UETools.lib"

@@ -1,0 +1,10 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.NS_UETools.cpp.obj": [
+			"NS_UETools.gen.cpp.obj",
+			"NS_UETools.init.gen.cpp.obj",
+			"NS_UETools.cpp.obj"
+		]
+	}
+}

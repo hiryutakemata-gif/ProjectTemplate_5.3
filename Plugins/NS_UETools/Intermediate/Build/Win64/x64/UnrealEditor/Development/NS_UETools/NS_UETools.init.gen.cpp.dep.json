@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\ue_git\\ueplugindevelopment\\templatedevelopment\\plugins\\ns_uetools\\intermediate\\build\\win64\\unrealeditor\\inc\\ns_uetools\\uht\\ns_uetools.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\ue_git\\ueplugindevelopment\\templatedevelopment\\intermediate\\build\\win64\\x64\\templatedevelopmenteditor\\development\\unrealed\\sharedpch.unrealed.cpp17.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "e:\\ue_git\\ueplugindevelopment\\templatedevelopment\\plugins\\ns_uetools\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ns_uetools\\definitions.ns_uetools.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
